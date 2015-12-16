@@ -1,0 +1,14 @@
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.csprojResolveAssemblyReference.cache
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\TankGame.exe
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\TankGame.pdb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.exe
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\obj\x86\Debug\TankGame.pdb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\background.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\brick.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\coinpack.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\lifepack.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\sand.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\stone.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\tank.xnb
+D:\Semester_4\Tanker\pamoda\TankGame\TankGame\TankGame\bin\x86\Debug\Content\water.xnb

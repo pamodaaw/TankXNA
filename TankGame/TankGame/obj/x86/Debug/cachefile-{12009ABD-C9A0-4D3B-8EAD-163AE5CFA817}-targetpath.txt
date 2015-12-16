@@ -1,0 +1,8 @@
+Content\background.xnb
+Content\brick.xnb
+Content\coinpack.xnb
+Content\lifepack.xnb
+Content\sand.xnb
+Content\stone.xnb
+Content\tank.xnb
+Content\water.xnb
